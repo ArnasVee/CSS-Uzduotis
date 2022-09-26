@@ -1,0 +1,82 @@
+.container{
+	width: 50%;
+	margin: auto;
+
+}
+
+.top{
+	/*align-items: center;*/
+	/*margin: 0 auto;*/
+	text-align: center;	
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+img {  
+height: 350px;
+}  
+
+h1{
+	font-size: 6em;
+	text-align: center;
+	margin: 0px 0px 40px 0px;
+}
+
+.sofa-is{
+	text-align: center;
+	border: #939696;
+	border-style: double;
+	border-left-style: none;
+	border-right-style: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 90%;
+	margin: auto;
+}
+
+.articles{
+	text-align: center;	
+}
+
+ul{
+	text-align: center;
+}
+
+ul li{
+	display: inline-block;
+	list-style: none;		
+	text-align: left;
+	
+}
+
+li {
+	/*padding: 0px 20px 0px 20px;*/
+	width: 220px;
+}
+
+h3{
+	font-size: 30px;
+	margine 0px;
+}
+
+footer p{
+	text-align: center;
+	margin-top: 40px;
+	color: #939696;
+
+}
+
+.fa-certificate{
+	color: red;
+	font-size: 1.2em;
+}
+
+span{
+	font-weight: bold;
+	color: black;
+}
+
+*{
+	font-family: 'Merriweather', serif;
+}
+
